@@ -4,7 +4,7 @@
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  background: #ffc600;
+  background: #83D0C9;
   padding: 50px;
   transition: all 1s;
 }
@@ -38,7 +38,8 @@ body.taking > * {
 
 canvas {
   width: 100%;
-  border: 10px solid black;
+  border: 10px solid #345350;
+  background-color: #fff;
 }
 
 .countdown {
